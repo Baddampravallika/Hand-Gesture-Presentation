@@ -58,9 +58,10 @@ Ensure your slide images are stored in a folder. Update the 'folderpath' variabl
 folderpath = r"C:\Users\Path\To\Your\Slides"
 
 
+
 ## Controls
 * 'a' Key: Press 'a' on your keyboard to exit the application.
 
-Developed for Gesture-Based Human Computer Interaction.
+*Developed for Gesture-Based Human Computer Interaction.*
 README.txt
 Displaying README.txt.
